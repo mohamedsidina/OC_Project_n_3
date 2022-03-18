@@ -15,4 +15,4 @@ Les variables sont définies à cette adresse : https://world.openfoodfacts.org/
 # Les livrables :
 1) Un notebook du nettoyage des données. 
 2) Un notebook d’exploration comportant une analyse univariée, multivariée, une réduction dimensionnelle.
-3) Une présentation, à utiliser en support pour la soutenance, comprenant 
+3) Un support de présentation.
